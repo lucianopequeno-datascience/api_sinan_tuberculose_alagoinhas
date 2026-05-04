@@ -11,7 +11,7 @@ def run_oda_pipeline():
     COD_ALAGOINHAS = "290070"
     
     # Intervalo da série histórica
-    ANOS = range(2020, 2027) 
+    ANOS = range(2000, 2027) 
     
     print("Iniciando pipeline de Tuberculose...")
     try:
